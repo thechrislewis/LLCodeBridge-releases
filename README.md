@@ -1,4 +1,4 @@
-# LLCCBlock — Releases
+# llCodeBridge — Releases
 
 Download the latest release for your platform below.
 
