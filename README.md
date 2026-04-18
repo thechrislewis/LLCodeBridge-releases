@@ -1,4 +1,4 @@
-# llCodeBridge — Releases
+# LLCodeBridge — Releases
 
 Download the latest release for your platform below.
 
