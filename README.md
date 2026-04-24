@@ -14,15 +14,15 @@ Drag blocks, see Python appear live, run your turtle program — no Python insta
 
 ---
 
-## ⬇️ Download v1.2.0
+## ⬇️ Download v1.2.1
 
 Pick the right file for your platform:
 
 | Platform | Installer | Portable |
 |---|---|---|
-| **Windows (x64)** | [LLCodeBridge Setup 1.2.0.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge.Setup.1.2.0.exe) | [LLCodeBridge 1.2.0.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge.1.2.0.exe) |
-| **Linux (x64)** | [llcodebridge_1.2.0_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.0_amd64.deb) | [LLCodeBridge-1.2.0.AppImage](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge-1.2.0.AppImage) |
-| **Raspberry Pi** | [llcodebridge_1.2.0_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.0_armv7l.deb) | [LLCodeBridge-1.2.0-armv7l.AppImage](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge-1.2.0-armv7l.AppImage) |
+| **Windows (x64)** | [LLCodeBridge Setup 1.2.1.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge.Setup.1.2.1.exe) | [LLCodeBridge 1.2.1.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge.1.2.1.exe) |
+| **Linux (x64)** | [llcodebridge_1.2.1_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.1_amd64.deb) | [LLCodeBridge-1.2.1.AppImage](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge-1.2.1.AppImage) |
+| **Raspberry Pi** | [llcodebridge_1.2.1_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.1_armv7l.deb) | [LLCodeBridge-1.2.1-armv7l.AppImage](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge-1.2.1-armv7l.AppImage) |
 
 > **Not sure which to pick?**  
 > Windows → use the **Installer** `.exe`  
