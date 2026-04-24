@@ -62,6 +62,8 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 | 🖥 **Screen** | background colour, title, size, hide/show turtle, keyboard events, mainloop |
 | 🎨 **Colour** | hex picker, named colour, RGB, random colour |
 | 🐢🐢 **Multi-Turtle** | create named turtles, all motion/pen blocks per instance |
+| 🎵 **Sound** | play notes, melodies, scales, set tempo/instrument/volume |
+| 🤖 **AI Chat** | ask LLM prompts, set persona, AI-suggested movement and colours |
 | 🤖 **AI Behaviours** | wander, seek, flee, orbit, chase, flee from turtle, zone wandering |
 | ⏱ **Timers** | start timer, get elapsed time |
 | 🔀 **Random** | randint, uniform, choice, shuffle, seed |
@@ -80,6 +82,8 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 - **Autosave** — workspace auto-saved; restore on next launch
 - **Example gallery** — bundled starter projects to learn from
 - **Block tooltips** — hover any block to see what Python it generates
+- **Sound blocks** — compose notes and melodies directly in block programs
+- **AI Chat blocks** — ask AI for ideas and use responses in your drawings
 - **Save / Load** — `.llcc` project files (Blockly XML in JSON)
 - **Export to .py** — share runnable Python scripts
 - **Export to PDF** — printable worksheet with code and canvas screenshot
