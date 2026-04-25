@@ -14,20 +14,20 @@ Drag blocks, see Python appear live, run your turtle program — no Python insta
 
 ---
 
-## ⬇️ Download v1.2.2
+## ⬇️ Download v1.2.4
 
 Pick the right file for your platform:
 
 | Platform | Installer | Portable |
 |---|---|---|
-| **Windows (x64)** | [LLCodeBridge Setup 1.2.2.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge.Setup.1.2.2.exe) | [LLCodeBridge 1.2.2.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge.1.2.2.exe) |
-| **Linux (x64)** | [llcodebridge_1.2.2_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.2_amd64.deb) | [LLCodeBridge-1.2.2.AppImage](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge-1.2.2.AppImage) |
-| **Raspberry Pi** | [llcodebridge_1.2.2_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.2_armv7l.deb) | [LLCodeBridge-1.2.2-armv7l.AppImage](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge-1.2.2-armv7l.AppImage) |
+| **Windows (x64)** | [LLCodeBridge Setup 1.2.4.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%20Setup%201.2.4.exe) | [LLCodeBridge 1.2.4.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%201.2.4.exe) |
+| **Linux (x64)** | [llcodebridge_1.2.4_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.4_amd64.deb) | - |
+| **Raspberry Pi** | [llcodebridge_1.2.4_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.4_armv7l.deb) | - |
 
 > **Not sure which to pick?**  
 > Windows → use the **Installer** `.exe`  
-> Linux → use the **AppImage** (just make it executable and run it, no install needed)  
-> Raspberry Pi → use the **armv7l AppImage** or `.deb`
+> Linux → use the `.deb` package for your architecture  
+> Raspberry Pi → use the `armv7l .deb`
 
 ---
 
