@@ -1,8 +1,8 @@
 version: 1.2.4
 files:
   - url: LLCodeBridge-Setup-1.2.4.exe
-    sha512: OmlR31p5gA1DcnqhgU6JGuqyLAkhaxDEEbNKtCZADxOfMLl4L4Odmq7HY4pb8Bk+NUh9t2fVrtZoJnfQJMyy4g==
-    size: 79857901
+    sha512: Agd6O3I+vNVsBjmbS6KIz3bht3sOI4JBAo09gnUj7/Ll3R8AjbwsU9W83pje1ltBmWVOnYL58cIZ3qg45aKgQw==
+    size: 79859759
 path: LLCodeBridge-Setup-1.2.4.exe
-sha512: OmlR31p5gA1DcnqhgU6JGuqyLAkhaxDEEbNKtCZADxOfMLl4L4Odmq7HY4pb8Bk+NUh9t2fVrtZoJnfQJMyy4g==
-releaseDate: '2026-04-25T14:05:07.185Z'
+sha512: Agd6O3I+vNVsBjmbS6KIz3bht3sOI4JBAo09gnUj7/Ll3R8AjbwsU9W83pje1ltBmWVOnYL58cIZ3qg45aKgQw==
+releaseDate: '2026-04-25T15:30:35.543Z'
