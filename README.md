@@ -61,7 +61,7 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 | 🖊 **Pen** | pen up/down, colour, width, fill, dot, stamp, clear |
 | 🖥 **Screen** | background colour, title, size, hide/show turtle, keyboard events, mainloop |
 | 🎨 **Colour** | hex picker, named colour, RGB, random colour |
-| 🐢🐢 **Multi-Turtle** | create named turtles, all motion/pen blocks per instance |
+| 🐢 **Turtle** | create named turtles, all motion/pen blocks per instance |
 | 🎵 **Sound** | play notes, melodies, scales, set tempo/instrument/volume |
 | 🤖 **AI Chat** | ask LLM prompts, set persona, AI-suggested movement and colours |
 | 🤖 **AI Behaviours** | wander, seek, flee, orbit, chase, flee from turtle, zone wandering |
