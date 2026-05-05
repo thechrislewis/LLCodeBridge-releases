@@ -1,8 +1,8 @@
 version: 1.2.4
 files:
   - url: llcodebridge_1.2.4_armv7l.deb
-    sha512: n2YsMGgfbGtcVxQy9mhemM5iAe/s89ggTkFxI5+JDjK6jAJwuu/AwqH6OvEzrsWp6vbPvRlL2K5v03nAd/A/Lg==
-    size: 78019072
+    sha512: qRObSJV6s0kRoZHaGxT+j56bBdCOTY8hJjEztdkgL/08zQcnzvMVODsBSQQMIMdh1vl1Z3fol+GG1Ig051y2UQ==
+    size: 78019612
 path: llcodebridge_1.2.4_armv7l.deb
-sha512: n2YsMGgfbGtcVxQy9mhemM5iAe/s89ggTkFxI5+JDjK6jAJwuu/AwqH6OvEzrsWp6vbPvRlL2K5v03nAd/A/Lg==
-releaseDate: '2026-05-05T18:17:27.118Z'
+sha512: qRObSJV6s0kRoZHaGxT+j56bBdCOTY8hJjEztdkgL/08zQcnzvMVODsBSQQMIMdh1vl1Z3fol+GG1Ig051y2UQ==
+releaseDate: '2026-05-05T18:30:51.455Z'
