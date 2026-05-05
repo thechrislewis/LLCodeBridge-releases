@@ -1,8 +1,8 @@
 version: 1.2.4
 files:
   - url: llcodebridge_1.2.4_amd64.deb
-    sha512: 6Pl6xBRuB0dE8VmsPWFlJg3SpJNpr3JYIfc5HD4Yx83ntcRbp5PFhOxoAB8hvjnoJlWzOe/Tx4GN7y+MizxjUw==
-    size: 85623244
+    sha512: 1lUy6H/sC+ff6eOKOCoQhU3Ty+7Ay6WccR4LIdE1g7t1FkLV6iKS1vLe/h0xFS6SUFLexR39w6nIP4GJDIM9iw==
+    size: 85623232
 path: llcodebridge_1.2.4_amd64.deb
-sha512: 6Pl6xBRuB0dE8VmsPWFlJg3SpJNpr3JYIfc5HD4Yx83ntcRbp5PFhOxoAB8hvjnoJlWzOe/Tx4GN7y+MizxjUw==
-releaseDate: '2026-04-25T15:30:35.543Z'
+sha512: 1lUy6H/sC+ff6eOKOCoQhU3Ty+7Ay6WccR4LIdE1g7t1FkLV6iKS1vLe/h0xFS6SUFLexR39w6nIP4GJDIM9iw==
+releaseDate: '2026-05-05T18:17:27.118Z'
