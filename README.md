@@ -14,15 +14,15 @@ Drag blocks, see Python appear live, run your turtle program — no Python insta
 
 ---
 
-## ⬇️ Download v1.2.4
+## ⬇️ Download v1.2.5
 
 Pick the right file for your platform:
 
 | Platform | Installer | Portable |
 |---|---|---|
-| **Windows (x64)** | [LLCodeBridge Setup 1.2.4.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%20Setup%201.2.4.exe) | [LLCodeBridge 1.2.4.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%201.2.4.exe) |
-| **Linux (x64)** | [llcodebridge_1.2.4_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.4_amd64.deb) | - |
-| **Raspberry Pi** | [llcodebridge_1.2.4_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.4_armv7l.deb) | - |
+| **Windows (x64)** | [LLCodeBridge Setup 1.2.5.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%20Setup%201.2.5.exe) | [LLCodeBridge 1.2.5.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%201.2.5.exe) |
+| **Linux (x64)** | [llcodebridge_1.2.5_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.5_amd64.deb) | - |
+| **Raspberry Pi** | [llcodebridge_1.2.5_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_1.2.5_armv7l.deb) | - |
 
 > **Not sure which to pick?**  
 > Windows → use the **Installer** `.exe`  
@@ -63,7 +63,7 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 | 🎨 **Colour** | hex picker, named colour, RGB, random colour |
 | 🐢 **Turtle** | create named turtles, all motion/pen blocks per instance |
 | 🎵 **Sound** | play notes, melodies, scales, set tempo/instrument/volume |
-| 🌍 **Geography** | live earthquake data, UK flood alerts, ISS position from real-world APIs |
+| 🌍 **Geography** | live earthquake data, UK flood alerts, ISS position, world map background, lat/lon plotting |
 | 🤖 **AI Chat** | ask LLM prompts, set persona, AI-suggested movement and colours |
 | 🤖 **AI Behaviours** | wander, seek, flee, orbit, chase, flee from turtle, zone wandering, turtle collision |
 | ⏱ **Timers** | start timer, get elapsed time |
@@ -81,10 +81,10 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 - **Difficulty levels** — filter visible blocks from Beginner to Advanced
 - **Block search** — Ctrl+F to find any block instantly
 - **Autosave** — workspace auto-saved; restore on next launch
-- **Example gallery** — 15 bundled starter projects to learn from
+- **Example gallery** — bundled starter projects to learn from
 - **Block tooltips** — hover any block to see what Python it generates
 - **Sound blocks** — compose notes and melodies directly in block programs
-- **Geography blocks** — pull live real-world data (earthquakes, floods, ISS) into your programs
+- **Geography blocks** — pull live real-world data (earthquakes, UK floods, ISS) into your programs; plot on a world map
 - **AI Chat blocks** — ask AI for ideas and use responses in your drawings
 - **Turtle collision detection** — Boolean block returns `True` when two named turtles are within a hit distance
 - **Save / Load** — `.llcc` project files (Blockly XML in JSON)
