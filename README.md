@@ -63,8 +63,9 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 | 🎨 **Colour** | hex picker, named colour, RGB, random colour |
 | 🐢 **Turtle** | create named turtles, all motion/pen blocks per instance |
 | 🎵 **Sound** | play notes, melodies, scales, set tempo/instrument/volume |
+| 🌍 **Geography** | live earthquake data, UK flood alerts, ISS position from real-world APIs |
 | 🤖 **AI Chat** | ask LLM prompts, set persona, AI-suggested movement and colours |
-| 🤖 **AI Behaviours** | wander, seek, flee, orbit, chase, flee from turtle, zone wandering |
+| 🤖 **AI Behaviours** | wander, seek, flee, orbit, chase, flee from turtle, zone wandering, turtle collision |
 | ⏱ **Timers** | start timer, get elapsed time |
 | 🔀 **Random** | randint, uniform, choice, shuffle, seed |
 | 🔤 **Strings** | upper, lower, strip, replace, split, join, find, slice, startswith, endswith… |
@@ -80,16 +81,19 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 - **Difficulty levels** — filter visible blocks from Beginner to Advanced
 - **Block search** — Ctrl+F to find any block instantly
 - **Autosave** — workspace auto-saved; restore on next launch
-- **Example gallery** — bundled starter projects to learn from
+- **Example gallery** — 15 bundled starter projects to learn from
 - **Block tooltips** — hover any block to see what Python it generates
 - **Sound blocks** — compose notes and melodies directly in block programs
+- **Geography blocks** — pull live real-world data (earthquakes, floods, ISS) into your programs
 - **AI Chat blocks** — ask AI for ideas and use responses in your drawings
+- **Turtle collision detection** — Boolean block returns `True` when two named turtles are within a hit distance
 - **Save / Load** — `.llcc` project files (Blockly XML in JSON)
 - **Export to .py** — share runnable Python scripts
 - **Export to PDF** — printable worksheet with code and canvas screenshot
 - **QR Share** — scan a QR code to load a project on another device
 - **Student Profile** — name and class saved with projects (great for classrooms)
 - **Teacher Mode** — PIN-protected session lock with difficulty cap and file restrictions
+- **Windows typing** — works reliably on all Windows configurations (v1.2.4+)
 
 ---
 
