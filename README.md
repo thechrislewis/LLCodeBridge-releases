@@ -14,15 +14,15 @@ Drag blocks, see Python appear live, run your turtle program — no Python insta
 
 ---
 
-## ⬇️ Download v2.0.0
+## ⬇️ Download v2.0.1
 
 Pick the right file for your platform:
 
 | Platform | Installer | Portable |
 |---|---|---|
-| **Windows (x64)** | [LLCodeBridge Setup 2.0.0.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%20Setup%202.0.0.exe) | [LLCodeBridge 2.0.0.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%202.0.0.exe) |
-| **Linux (x64)** | [llcodebridge_2.0.0_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_2.0.0_amd64.deb) | - |
-| **Raspberry Pi** | [llcodebridge_2.0.0_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_2.0.0_armv7l.deb) | - |
+| **Windows (x64)** | [LLCodeBridge Setup 2.0.1.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%20Setup%202.0.1.exe) | [LLCodeBridge 2.0.1.exe](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/LLCodeBridge%202.0.1.exe) |
+| **Linux (x64)** | [llcodebridge_2.0.1_amd64.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_2.0.1_amd64.deb) | - |
+| **Raspberry Pi** | [llcodebridge_2.0.1_armv7l.deb](https://github.com/thechrislewis/LLCodeBridge-releases/releases/latest/download/llcodebridge_2.0.1_armv7l.deb) | - |
 
 > **Not sure which to pick?**  
 > Windows → use the **Installer** `.exe`  
