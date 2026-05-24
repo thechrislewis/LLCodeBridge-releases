@@ -51,6 +51,11 @@ Snap blocks together → Python appears live in the code panel → hit **Run** �
 
 ---
 
+## 🆕 New in v2.0.1
+
+- **Help → Check for Updates** — manually trigger an update check at any time from the Help menu
+- **Fix: Windows variable name dialog** — typing in the "New variable name" dialog now works correctly on all Windows configurations
+
 ## 🆕 New in v2.0.0
 
 v2.0.0 is a major feature release, expanding LLCodeBridge from a turtle-focused tool into a full beginner Python IDE:
